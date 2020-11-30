@@ -6,4 +6,5 @@ html {
 video {
   width: 80%;
   height: auto;
+  min-width: 19em;
 }
