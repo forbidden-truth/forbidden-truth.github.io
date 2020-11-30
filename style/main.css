@@ -1,0 +1,9 @@
+html {
+  width:100vw;
+  overflow-x:hidden;
+}
+
+video {
+  width: 80%;
+  height: auto;
+}
